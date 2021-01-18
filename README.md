@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+2021-01-18
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Project for udacity course
 
 ### Files used
-Include the files used
+src/bikeshare_2.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/pdsnd_github
 
