@@ -5,7 +5,7 @@
 Bikeshare
 
 ### Description
-Project for udacity course
+Project for udacity course. Making this documentation even better.
 
 ### Files used
 src/bikeshare_2.py
